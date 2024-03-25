@@ -3,8 +3,11 @@ This repository contains the source code for an online watch store built using t
 
 Features:
 Product Catalog: The store features a comprehensive product catalog showcasing a diverse selection of watches for both genders.
+
 User-Friendly Interface: The website provides a user-friendly interface for customers to easily browse and search for watches based on their preferences.
+
 Order Functionality: Customers can seamlessly add watches to their cart, proceed to checkout, and complete secure orders.
+
 Email Confirmation: After a successful order, an automated email confirmation is sent to the customer, summarizing their purchase details.
 
 Technologies:
