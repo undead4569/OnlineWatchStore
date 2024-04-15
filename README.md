@@ -12,3 +12,6 @@ This repository contains the source code for an online watch store built using t
 - **Email Confirmation**: After a successful order, an automated email confirmation is sent to the customer, summarizing their purchase details.
 
 - **Technologies**: OpenCart - Open-source e-commerce platform used to build the online store.
+
+
+[Watch our demo presentation of online watch store here](https://docs.google.com/presentation/d/1fSYU2hru00rWpFX9_UEEgtCflp5ueFTWMnCyjTAps6k/edit#slide=id.p14)
